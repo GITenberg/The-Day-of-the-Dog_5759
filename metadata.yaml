@@ -1,0 +1,35 @@
+_repo: The-Day-of-the-Dog_5759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCutcheon, George Barr
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '1555'
+    url: http://www.gutenberg.org/2009/agents/1555
+    wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
+description: "The Day of the Dog is a novel written by George Barr McCutcheon in 1904.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5759'
+  wikidata: Q7729215
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Humorous stories'
+- !lcsh 'Lawyers -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Day of the Dog
+url: http://www.gutenberg.org/ebooks/5759
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Day_of_the_Dog
